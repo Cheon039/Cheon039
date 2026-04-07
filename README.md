@@ -1,5 +1,5 @@
 ## Hi! I'm SeongChan!👋
----
+
 
 **Name:** 천성찬\
 **College:** 영남대학교 컴퓨터공학과\
