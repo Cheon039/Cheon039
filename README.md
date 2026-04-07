@@ -1,7 +1,9 @@
 ## <div align="center">Hi! I'm SeongChan!👋</div>
 
-**College** : 영남대학교 컴퓨터공학과\
-**Student ID** : 22113636
+
+**Name:** 천성찬\
+**College:** 영남대학교 컴퓨터공학과\
+**Student ID:** 22113636
 
 ### Focus On
 - **Computer Science:** OS, Database, Web Programming 등 CS 전공 지식 학습
