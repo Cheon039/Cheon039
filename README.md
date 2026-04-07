@@ -1,6 +1,6 @@
 ## <div align="center">Hi! I'm SeongChan!👋</div>
 
-**College** : 영남대학교 컴퓨터공학과
+**College** : 영남대학교 컴퓨터공학과\
 **Student ID** : 22113636
 
 ### Focus On
