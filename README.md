@@ -1,4 +1,4 @@
-## <div align="center">Hi! I'm SeongChan!👋</div>
+## <h2 align="center">Hi! I'm SeongChan!👋</h2>
 
 
 **Name:** 천성찬\
