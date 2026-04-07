@@ -1,7 +1,18 @@
-## <div align="center">Hi! I'm SeongChan!</div>
+## <div align="center">Hi! I'm SeongChan!👋</div>
 
+**College** : 영남대학교 컴퓨터공학과
+**Student ID** : 22113636
 
-### 
+### Focus On
+- **Computer Science:** OS, Database, Web Programming 등 CS 전공 지식 학습
+- **Algorithm:** C/C++ 활용 Baekjoon 문제 풀이
+
+### Projects
+- **ProBox:** AI 코딩 어시스턴트를 활용한 Kotlin 기반 안드로이드 앱 프로토타입 구현 및 테스트
+- **Capstone Design:** 2026년 학과 팀 프로젝트 참여 중
+- **Arduino**: Arduino를 이용한 공학 설계 팀 프로젝트 참여 중
+- 
+---
 
 
 <!--
