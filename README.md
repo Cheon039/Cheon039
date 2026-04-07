@@ -1,7 +1,9 @@
-## Hi there 👋
+<div align="center">## Hi! I'm SeongChan!</div>
 
-**Hello**
-22113636 CheonSeongChan
+
+### 
+
+
 <!--
 **Cheon039/Cheon039** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
